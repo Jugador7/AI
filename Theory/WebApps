@@ -1,0 +1,16 @@
+3 Componentes
+- Web Server: Manage requests
+- App Server: Execute de requested task
+- Database: Store info needed to complete the task. 
+
+API Architectures:
+- REST: Representation State Transfer
+- Simple Object Access Protocol (SOAP)
+
+Web apps: Son una forma de API
+- Comparten datos con otras apps.
+- Todas las web apps son apis
+
+Apis: Incluye apps online y offline. 
+- No todas las apis son webapps
+
