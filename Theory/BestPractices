@@ -1,0 +1,12 @@
+1. Use spaces instead of tabs for identations (tabs are interpreted in differente IDEs)
+2. Use 4 spaces for proper indentation
+3. Create a space between functions. 
+4. Use spaces between every variable. 
+5. Create separate functions for functionalities. (speed and reusing)
+6. naming con minúsculas para archivos y funciones. usando _ 
+7. name classes using CamelCase.
+8. Constants en mayúsculas usando _ (MAX_FILE_UPLOAD_SIZE)
+9. Análisis de código estático (Programming errors, coding standard violations, undefined values, syntax violations 
+and security vulnerabilities)
+    - Para esto ayuda PyLint, revisa el código de Python y su cumplimento con las buenas prácticas. 
+
