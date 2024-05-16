@@ -1,0 +1,38 @@
+Seven Phases
+
+1. Requirement Gathering
+- User requirements
+- Business requirements
+- Technical requirements
+- Identify constraints and risks
+- Simplify
+
+2. Analysis
+- Verify and revise every requirement
+- Write use cases and tests
+
+3. Design
+- Design documents based on analysis
+
+4. Code and test
+- Revise code until every test passes
+
+5. User and System Testing
+- Unit testing at code level 
+- User test
+- Integration tests
+- Performance tests
+
+6. Production
+- Promover a producción (repositorio productivo)
+
+7. Maintenance
+- Mejoras y nuevas funcionalidades
+- Cada nueva cosa de pasar por todas las fases. 
+
+Mejor práctica:
+Mantener múltiples archivos para cada funcionalidad es lo mejor. 
+Los requerimientos para cada cosa cambian. 
+Lo mejor es que un programa central llame a cada archivo por aparte.
+Mantenimiento es más eficiente. 
+
